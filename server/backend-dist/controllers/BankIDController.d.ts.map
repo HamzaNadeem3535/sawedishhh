@@ -1,0 +1,1 @@
+{"version":3,"file":"BankIDController.d.ts","sourceRoot":"","sources":["../../controllers/BankIDController.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAOnC,qBAAa,gBAAgB;IAC3B,MAAM,CAAC,sBAAsB,gGAkC1B;IAEH,MAAM,CAAC,iBAAiB,gGAiDrB;IAEH,MAAM,CAAC,WAAW,gGA4Bf;IAEH,MAAM,CAAC,eAAe,gGA0BnB;IAEH,MAAM,CAAC,aAAa,gGAoBjB;IAEH,MAAM,CAAC,eAAe,gGAkBnB;CACJ"}
